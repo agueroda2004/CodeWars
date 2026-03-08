@@ -1,4 +1,4 @@
-### Personal Practice Repository
+# Personal Practice Repository 
 ### I try to solve logic problems every day because I enjoy practicing my logic and finding new ways to approach solutions. <br/> I also like comparing my code with other developers' approaches to learn from them.
 
 ---
