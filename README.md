@@ -6,4 +6,4 @@
 ![My Skills](https://skillicons.dev/icons?i=ts,js,python)
 ---
 ### My CodeWars profile
-[![Codewars Badge](https://www.codewars.com/users/agueroda2004/badges/large)](https://www.codewars.com/users/jhoffner)
+[![Codewars Badge](https://www.codewars.com/users/agueroda2004/badges/large)](https://www.codewars.com/users/agueroda2004)
