@@ -1,3 +1,5 @@
+# Time 10 minutes
+
 problem = """ 
 Given an array of integers, find the one that appears an odd number of times.
 
